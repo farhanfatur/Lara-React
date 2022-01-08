@@ -1,5 +1,5 @@
 ## LaraReact
-Simple example app create with Laravel and React JS(whole i learn for now)
+Simple example app create with Laravel and React JS(for now)
 
 ### Installation
 #### 1. Install dependencies laravel and react
